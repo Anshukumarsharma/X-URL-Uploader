@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi,
-I'm TM URL Uploader!
+I'm Gorgeous URL Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
@@ -45,7 +45,7 @@ Expires on: 31/12/2020"""
 --------
 Send /me to know current plan details
 
-If bot didn't respond, contact @xgorn"""
+If bot didn't respond, contact @Anshu888o"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
