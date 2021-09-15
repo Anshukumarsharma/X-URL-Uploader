@@ -72,11 +72,11 @@ async def start(bot, update):
             [
                 [
                     InlineKeyboardButton(
-                        "Owner", url="https://t.me/TM_Adminz"
+                        "Owner", url="https://t.me/Anshu888o"
                     ),
-                    InlineKeyboardButton("Moviez Channel", url="https://t.me/TM_Moviez"),
+                    InlineKeyboardButton("Moviez Group", url="https://t.me/GorgeousAndGloreous"),
                 ],
-                [InlineKeyboardButton("✅ Donate Us ✨", url="https://rzp.io/l/TMBots")],
+                [InlineKeyboardButton("File To Link Bot", url="http://t.me/File_to_direct_dl_link_bot")],
             ]
         ),
         reply_to_message_id=update.message_id
